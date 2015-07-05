@@ -1,5 +1,5 @@
 name: mruby-machinelearning
-description: MachineLearning class
+description: MachineLearning module
 author: Hiroyuki Matsuzaki
 website: https://github.com/mhiro8322/mruby-machinelearning
 protocol: git

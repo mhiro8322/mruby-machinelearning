@@ -1,5 +1,6 @@
 /*
-** mrb_machinelearning.h - MachineLearning class
+** mrb_machinelearning.h - MachineLearning module
+** Copyright (c) Hiroyuki Matsuzaki 2015
 **
 ** See Copyright Notice in LICENSE
 */
