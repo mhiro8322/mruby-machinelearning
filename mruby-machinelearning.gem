@@ -1,0 +1,6 @@
+name: mruby-machinelearning
+description: MachineLearning class
+author: Hiroyuki Matsuzaki
+website: https://github.com/mhiro8322/mruby-machinelearning
+protocol: git
+repository: https://github.com/mhiro8322/mruby-machinelearning.git
